@@ -8,8 +8,8 @@
 
 -->
 
-# About Me:
-Computer programming student.
+<!-- # About Me: -->
+I am a Computer Programming student.
 
 
 <!-- ## 🌐 Socials: -->
