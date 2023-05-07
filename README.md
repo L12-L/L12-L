@@ -25,7 +25,7 @@ I am currently a Computer Programming student.
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=L12-L&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
----
+<!-- --- -->
 <!-- [![](https://visitcount.itsvg.in/api?id=L12-L&icon=7&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
