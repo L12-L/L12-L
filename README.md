@@ -9,7 +9,7 @@
 -->
 
 <!-- # About Me: -->
-I am currently a Computer Programming student.
+I am currently a Computer Programming student at Seneca College.
 
 
 <!-- ## 🌐 Socials: 
