@@ -4,7 +4,7 @@
 **L12-L/L12-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently a computer programming student.
-- 🌱 I’m currently learning how to make video games.
+- 🌱 I’m currently learning ...
 
 -->
 
