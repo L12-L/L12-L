@@ -9,7 +9,9 @@
 -->
 
 <!-- # About Me: -->
-<!-- I am currently a Computer Programming student at Seneca College. -->
+<!-- I am currently a Computer Programming student at Seneca College. 
+     I am from Markham, Ontario, Canada.
+-->
 
 
 <!-- ## 🌐 Socials: 
