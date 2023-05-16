@@ -11,7 +11,7 @@
 <!-- # About Me: -->
 <!-- I am currently a Computer Programming student at Seneca College. 
      I am from Markham, Ontario, Canada.
-     I like video games, 
+     I like video games, computers 
 -->
 
 
