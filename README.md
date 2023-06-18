@@ -12,7 +12,7 @@
 <!-- I am currently a Computer Programming student at Seneca College. 
      I am from Markham, Ontario, Canada.
      I like basketball, video games, vintage computers, hip hop culture, movies, cats, and animals.
-     ...
+     
 -->
 
 
