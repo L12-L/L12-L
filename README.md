@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ...
 
 -->
-<!-- # About Me: -->
+ # About Me:
 
      I am a Computer Programming student at Seneca College. 
      I am currently learning Swift for iOS apps and ASM so I can play classic games on my TI-84 plus SE.
