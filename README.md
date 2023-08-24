@@ -10,7 +10,7 @@
 <!-- # About Me: -->
 
      I am a Computer Programming student at Seneca College. 
-     I am currently learning ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat-square&logo=swift&logoColor=white) and asm so I can play classic games on my TI-84 plus SE.
+     I am currently learning Swift for iOS apps and ASM so I can play classic games on my TI-84 plus SE.
      I have a MacBook Air M2, Windows Desktop PC, Lenovo T470, and a iMac G3.
      I like basketball, video games, vintage computers, and cats.     
      I am vegan for the animals.
