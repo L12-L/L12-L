@@ -6,7 +6,6 @@
 - 🔭 I’m currently a computer programming student.
 - 🌱 I’m currently learning ...
 
-
 -->
 <!-- # About Me: -->
 
