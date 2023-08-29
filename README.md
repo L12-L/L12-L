@@ -7,7 +7,6 @@
      I have a MacBook Air M2, Windows Desktop PC, Lenovo T470, and a iMac G3.
      I like basketball, video games, vintage computers, and cats.     
      I am vegan for the animals.
-
      
 <!-- # 💻 Tech Stack: -->
 
