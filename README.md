@@ -8,6 +8,7 @@
      I like basketball, movies, jazz, and cats.     
      I collect vintage computers and electronics.
      I am vegan for the animals.
+
      
 <!-- # 💻 Tech Stack: -->
 
